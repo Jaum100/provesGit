@@ -6,6 +6,7 @@ public class pepal {
 		// TODO Auto-generated method stub
 		System.out.println("hola mon");
 		System.out.println("Adeu mon");
+		System.out.println("a");
 	}
 
 }
